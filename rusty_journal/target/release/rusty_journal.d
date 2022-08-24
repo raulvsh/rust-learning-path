@@ -1,0 +1,1 @@
+C:\Users\Raúl\rust-learning-path\rusty_journal\target\release\rusty_journal.exe: C:\Users\Raúl\rust-learning-path\rusty_journal\src\cli.rs C:\Users\Raúl\rust-learning-path\rusty_journal\src\main.rs C:\Users\Raúl\rust-learning-path\rusty_journal\src\tasks.rs
